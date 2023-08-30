@@ -11,7 +11,6 @@
         <br>
         「 I am a Software Development student at <b>San Augustine High School, Texas, USA</b> 」
         <br>
-        <br>
     </samp>
 </p>
 
