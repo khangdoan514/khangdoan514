@@ -43,7 +43,7 @@
     ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
     ❤️ &emsp; Love to writing code and learning new features<br/><br/>
     📧 &emsp; Reach me anytime on Gmail: (kdoan.personal@gmail.com)<br/><br/>
-    💬 &emsp; Ask me about anything on LinkedIn (https://www.linkedin.com/in/khangdoan514/)
+    💬 &emsp; Ask me about anything on LinkedIn https://www.linkedin.com/in/khangdoan514/
 </p>
 <br/>
 
