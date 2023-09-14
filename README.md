@@ -7,7 +7,7 @@
 
 <p align="center"> 
     <samp>
-        <a href="https://www.google.com/search?q=Khang+Doan">「 Google Me 」</a>
+        <a href="https://www.google.com/search?q=Khang+Doan+San+Augustine">「 Google Me 」</a>
         <br>
         「 I am a Software Development student at <b>San Augustine High School, Texas, USA</b> 」
         <br>
