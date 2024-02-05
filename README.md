@@ -44,7 +44,7 @@
 </p>
 <br/>
 
-## Repo Activity
+# Repo Activity
 ![Alt](https://repobeats.axiom.co/api/embed/fb95e24e2e3f5bef00b27954f5e894c75c0badda.svg "Repobeats analytics image")
 
 # Skills
@@ -53,7 +53,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Software
+# Software
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
