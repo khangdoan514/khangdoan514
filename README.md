@@ -32,7 +32,6 @@
 <br/>
 
 ## About me
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khangdoan514&label=Profile%20views&color=0e75b6&style=flat" alt="khangdoan514" /> </p>
 ✌️ &emsp; Enjoy to do programming and sharing knowledge
 <br>
@@ -41,6 +40,7 @@
 💬 &emsp; Ask me **https://www.linkedin.com/in/khangdoan514/**
 <br>
 📫 &emsp; Reach me **kdoan.personal@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <br><br><br>
 
 ## Repo Activity
