@@ -36,9 +36,12 @@
 
 ✌️ &emsp; Enjoy to do programming and sharing knowledge
 
+
 ❤️ &emsp; Love to writing code and learning new features
 
+
 💬 &emsp; Ask me https://www.linkedin.com/in/khangdoan514/
+
 
 📫 &emsp; Reach me kdoan.personal@gmail.com
 <br><br>
