@@ -37,7 +37,6 @@
 ✌️ &emsp; Enjoy to do programming and sharing knowledge
 
 
-
 ❤️ &emsp; Love to writing code and learning new features
 
 
@@ -45,6 +44,7 @@
 
 
 📫 &emsp; Reach me **kdoan.personal@gmail.com**
+
 
 ## Repo Activity
 ![Alt](https://repobeats.axiom.co/api/embed/fb95e24e2e3f5bef00b27954f5e894c75c0badda.svg "Repobeats analytics image")
