@@ -40,10 +40,10 @@
 ❤️ &emsp; Love to writing code and learning new features
 
 
-💬 &emsp; Ask me <a href="https://www.linkedin.com/in/khangdoan514/"></a>
+💬 &emsp; Ask me on <a href="https://www.linkedin.com/in/khangdoan514/">LinkedIn</a>
 
 
-📫 &emsp; Reach me kdoan.personal@gmail.com
+📫 &emsp; Reach me on <a href="kdoan.personal@gmail.com">Gmail</a>
 <br><br>
 
 ## Repo Activity
