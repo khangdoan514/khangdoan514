@@ -39,9 +39,7 @@
 📫 &emsp; Reach me on <a href="kdoan.personal@gmail.com">Gmail</a><br><br>
 
 ## Repo Activity
-<p align="center"> 
-    ![Alt](https://repobeats.axiom.co/api/embed/fb95e24e2e3f5bef00b27954f5e894c75c0badda.svg "Repobeats analytics image")
-</p>
+![Alt](https://repobeats.axiom.co/api/embed/fb95e24e2e3f5bef00b27954f5e894c75c0badda.svg "Repobeats analytics image")
 
 ## Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
