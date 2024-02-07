@@ -41,7 +41,7 @@
 <p>  
     ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
     ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-    💬 &emsp; Ask me **https://www.linkedin.com/in/khangdoan514/**
+    💬 &emsp; Ask me **https://www.linkedin.com/in/khangdoan514/**<br/><br/
     📫 &emsp; Reach me **kdoan.personal@gmail.com**
 </p>
 <br/>
