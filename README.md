@@ -35,11 +35,13 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khangdoan514&label=Profile%20views&color=0e75b6&style=flat" alt="khangdoan514" /> </p>
  
-✌️ &emsp; Enjoy to do programming and sharing knowledge<br/><br/>
-❤️ &emsp; Love to writing code and learning new features<br/><br/>
-💬 &emsp; Ask me **https://www.linkedin.com/in/khangdoan514/** <br/><br/
+✌️ &emsp; Enjoy to do programming and sharing knowledge
+
+❤️ &emsp; Love to writing code and learning new features
+
+💬 &emsp; Ask me **https://www.linkedin.com/in/khangdoan514/**
+
 📫 &emsp; Reach me **kdoan.personal@gmail.com**
-<br/>
 
 ## Repo Activity
 ![Alt](https://repobeats.axiom.co/api/embed/fb95e24e2e3f5bef00b27954f5e894c75c0badda.svg "Repobeats analytics image")
