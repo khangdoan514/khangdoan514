@@ -32,10 +32,13 @@
 
 ## About me
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<img src="https://badges.pufler.dev/visits/khangdoan514/khangdoan514"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/khangdoan514"/>
- <img src="https://badges.pufler.dev/commits/monthly/khangdoan514" />
+<p>
+    <img src="https://badges.pufler.dev/visits/khangdoan514/khangdoan514"/> 
+    <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+    <img src="https://badges.pufler.dev/repos/khangdoan514"/>
+    <img src="https://badges.pufler.dev/commits/monthly/khangdoan514" />
+</p>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khangdoan514&label=Profile%20views&color=0e75b6&style=flat" alt="khangdoan514" /></p>
 ✌️ &emsp; Enjoy to do programming and sharing knowledge<br><br>
 ❤️ &emsp; Love to writing code and learning new features<br><br>
