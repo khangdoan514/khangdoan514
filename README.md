@@ -39,7 +39,7 @@
 
 💬 &emsp; Ask me https://www.linkedin.com/in/khangdoan514/
 
-📫 &emsp; Reach me kdoan.personal@gmail.com<br>
+📫 &emsp; Reach me kdoan.personal@gmail.com
 <br><br><br>
 
 ## Repo Activity
