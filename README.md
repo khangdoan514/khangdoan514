@@ -6,10 +6,11 @@
 <p align="center"> 
     <samp>
         <a href="https://www.google.com/search?q=Khang+Doan+San+Augustine">「 Google Me 」</a>
-        <br>
-        「 I am a Software Development student at <b>San Augustine High School, Texas, USA</b> 」
-        <br>
     </samp>
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khangdoan514" alt="khangdoan514" /></a>
 </p>
 
 <p align="center">
@@ -40,8 +41,8 @@
 <p>  
     ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
     ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-    📧 &emsp; Reach me anytime on Gmail - **kdoan.personal@gmail.com**<br/><br/>
-    💬 &emsp; Ask me about anything on LinkedIn - https://www.linkedin.com/in/khangdoan514/
+    💬 &emsp; Ask me **https://www.linkedin.com/in/khangdoan514/**
+    📫 &emsp; Reach me **kdoan.personal@gmail.com**
 </p>
 <br/>
 
@@ -67,14 +68,7 @@
 &emsp;&emsp;&emsp; Java Certified Foundations Associate
 
 
-<h1 align="center">Hi 👋, I'm Khang Doan</h1>
-<h3 align="center">A software development student at San Augustine High School</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khangdoan514" alt="khangdoan514" /></a> </p>
-
-- 💬 Ask me **https://www.linkedin.com/in/khangdoan514/**
-
-- 📫 Reach me **kdoan.personal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
