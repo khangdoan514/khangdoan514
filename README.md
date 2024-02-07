@@ -35,7 +35,7 @@
 <br />
 
 ## About me
-https://komarev.com/ghpvc/?username=khangdoan514&label=Profile%20views&color=0e75b6&style=flat
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khangdoan514&label=Profile%20views&color=0e75b6&style=flat" alt="khangdoan514" /> </p>
  
 <p>  
     ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
