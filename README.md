@@ -32,8 +32,8 @@
 <br/>
 
 ## About me
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khangdoan514&label=Profile%20views&color=0e75b6&style=flat" alt="khangdoan514" /></p>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khangdoan514&label=Profile%20views&color=0e75b6&style=flat" alt="khangdoan514" /></p>
 ✌️ &emsp; Enjoy to do programming and sharing knowledge
 <br><br>
 ❤️ &emsp; Love to writing code and learning new features
